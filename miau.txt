@@ -1,0 +1,5 @@
+Cambios con el número de cambio:
+
+1. antes de todo, primera versión del archivo miau.txt
+
+2. Después de hacerle add y antes de hacerle commit
