@@ -8,4 +8,6 @@ Cambios con el número de cambio:
 
 4. Cambio, lo subo desde la terminal.
 
-5. Cambio, lo dubo desde VSCode.
+5. Cambio, lo subo desde VSCode.
+
+6. Cambio, lo subo desde Github.
