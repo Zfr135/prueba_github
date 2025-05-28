@@ -6,4 +6,6 @@ Cambios con el número de cambio:
 
 3. Ya formalmente pareciendo incluso que sé lo que hago
 
-4. Cambio
+4. Cambio, lo subo desde la terminal.
+
+5. Cambio, lo dubo desde VSCode.
