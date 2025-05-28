@@ -11,3 +11,5 @@ Cambios con el número de cambio:
 5. Cambio, lo subo desde VSCode.
 
 6. Cambio, lo subo desde Github.
+
+7. La versión de la rama master.
