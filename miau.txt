@@ -12,4 +12,6 @@ Cambios con el número de cambio:
 
 6. Cambio, lo subo desde Github.
 
+7. Versión de la rama master.
+
 8. Versión de la rama hola.
