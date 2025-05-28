@@ -12,4 +12,4 @@ Cambios con el número de cambio:
 
 6. Cambio, lo subo desde Github.
 
-7. La versión de la rama master.
+7. Versión de la rama master.
